@@ -65,8 +65,8 @@ This project is divided into 3 milestones:
 - Jupyter Notebook
 - pandas, numpy
 - scikit-learn (sklearn)
-- matplotlib (if added)
-- seaborn (if added)
+- matplotlib 
+- seaborn 
 
 ---
 
