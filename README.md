@@ -81,7 +81,6 @@ Sonu Tamang
  Newark, New Jersey
  MS in Business Analytics
  sonulama778@gmail.com
- linkedin.com/in/sonu-tamang
- github.com/Sonulama778
-
+ 🔗 [GitHub](https://github.com/Sonulama778)
+🔗 [LinkedIn](https://linkedin.com/in/sonu-tamang)
 
